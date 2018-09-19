@@ -28,4 +28,4 @@ function sayHiToGrandma(string) {
     return "I can't hear you!"
 }
 
-console.log("HELLO"=="HELLO".toUpperCase())
+console.log("hELLO"=="HELLO".toUpperCase())
