@@ -28,5 +28,4 @@ function sayHiToGrandma(string) {
   if(string.toLowerCase()==string)
     return "I can't hear you!"
 }
-// var word = "HELLO"
-// console.log(word.toUpperCase()==word)
+sayHiToGrandma("HELLO")
